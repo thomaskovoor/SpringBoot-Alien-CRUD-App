@@ -1,0 +1,1 @@
+insert into alien values(1,'Thomas','Saturn'),(3,'Divya','Pluto'),(2,'Althaf','Uranus'),(4,'Oliver','Venus'),(5,'Emma','Saturn'),(6,'Liam','Earth'),(7,'Ava','Mars'),(8,'Noah','Jupiter'),(9,'Isabella','Neptune'),(10,'Sophia','Uranus'),(11,'Mason','Earth'),(12,'Evelyn','Jupiter'),(13,'Lucas','Mars');
